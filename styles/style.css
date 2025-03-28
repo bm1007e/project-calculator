@@ -1,0 +1,18 @@
+
+.first-container {
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    margin-top: 45px;
+
+}
+
+
+.principal-container {
+
+    height: 700px;
+    width: 700px;
+    border: 1px solid red;
+
+
+}
